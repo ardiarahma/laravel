@@ -79,12 +79,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ini Laravelnya Ardia
+                    About
                 </div>
 
-                <div class="links">
-                    <a href="pesan">Pesan</a>
-                    <a href="about">About</a>
+                <div>
+                    <p>Ini halaman yang menceritakan tentang about, entah itu about apa. Yang pasti ini tugas untuk mata kuliah praktikum web 2</p>
+                    <a href="/">Home</a>
                 </div>
             </div>
         </div>
